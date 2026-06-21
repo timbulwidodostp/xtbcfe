@@ -1,6 +1,8 @@
 # xtbcfe
 Bootstrap Corrected Fixed Effects (BCFE) estimation and inference in dynamic panel data models Use xtbcfe With STATA 19
 
+https://www.youtube.com/watch?v=MxcY6W1qjhM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
